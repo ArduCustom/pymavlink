@@ -1995,6 +1995,7 @@ mode_mapping_apm = {
     23 : 'QACRO',
     24 : 'THERMAL',
     25 : 'LOITERALTQLAND',
+    26 : 'COURSE_HOLD',
 }
 
 mode_mapping_acm = {
