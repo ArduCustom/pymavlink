@@ -1996,6 +1996,7 @@ mode_mapping_apm = {
     24 : 'THERMAL',
     25 : 'LOITERALTQLAND',
     26 : 'COURSE_HOLD',
+    27 : 'AUTOTRIM',
 }
 
 mode_mapping_acm = {
